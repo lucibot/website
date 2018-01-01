@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Lucia Valverde</title>
+<link href="end.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<body bgcolor="black">
+<div class="maincontainer"><div class="div"></div>
+<div class="header"></div>
+
+<div class="menu"><div class="cube"><a href="index.html"><img src="images/cube.png" width="18%" height="18%" alt="menu(colorcube)"/></a></div>
+  <div class="mcnt">
+    <a href="#about">ACERCA</a>
+    <a href="#print">IMPRESIÓN</a>
+    <a href="#mmedia">MULTIMEDIA</a>
+    <a href="#web">DISEÑO Web</a>
+    <a href="#contact">CONTACTO</a>
+    <a href="index.html">ENGLISH</a>
+  </div>
+</div>
+<div class="div"></div>
+<div class="container1"><div id="about"><div class="name">Lucia Novelo</div><div class="about"><p style="text-align:center">ACERCA</p>¡Hola! ¡Bienvenid@ a mi sitio! Soy estudiante de <a href="http://www.sdce.edu/" target="new">San Diego Continuing Education</a>, Campus Norte. El propósito de mi página es mostrarte mi portafolio. He trabajado mucho en los programas de <a href="http://www.adobe.com/" target="new">Adobe</a> para crear mis mejores piezas. Seguro que te van a encantar!<br> <p>Saludos,</p><p style="text-align:right">Lucia</p></div></div></div>
+<div class="div"></div>
+
+<div class="container2"><div id="print">IMPRESIÓN</div>
+<div class="div">
+</div><div class="print">
+
+<div class="img"><a href="images/print/creative.jpg" width="30%" alt="orange art"><img src="images/print/creative.jpg" width="35%" alt="orange art" /></a><div class="desc">"Creatividad"<br>Photoshop, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/stars">  <img src="images/print/stars" alt="Aztec dancing in the stars" width="35%" title="Danza"/></a><div class="desc">"Danza"<br>Photoshop, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/Queen.jpg"><img  src="images/print/Queen.jpg" alt="The Queen" width="35%" title="Queen"/></a><div class="desc">"La Reina"<br>Photoshop, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/book.jpg"><img  src="images/print/book.jpg" alt="book cover" width="35%" title="Book"/></a><div class="desc">"Entornos que dan"<br>Illustrator, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/medusa.jpg" width="30%"><img  src="images/print/medusa.jpg" alt="Medusa at her Vanity Card" width="35%" title="Medusa"/></a><div class="desc">"Medusa en su Vanidad"<br>Illustrator, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/poster.jpg" width="30%"><img  src="images/print/poster.jpg" alt="Spirits and Wines Poster" width="35%" title="Spirits"/></a><div class="desc">"Vino y Espíritus"<br>Illustrator, 2015</div></div>
+
+<div class="img"><a target="_blank" href="images/print/type.jpg.jpg" width="30%" ><img  src="images/print/type.jpg" alt="Type envelope" width="35%" title="Envelope"/></a><div class="desc">"Sobre de Fuente"<br>ILlustrator, 2016</div></div>
+
+<div class="img"><a target="_blank" href="images/print/iAm.jpg" width="30%" ><img  src="images/print/iAm.jpg" alt="I aim at the Stars art" width="35%" title="iAim"/></a><div class="desc">"iAim"<br>Illustrator, 2015</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/print/magazine_Page_1.jpg">
+  <img  src="images/print/magazine_Page_1.jpg" width="25%" alt="Empire Acolhua Magazine"/></a><a target="_blank" href="images/print/magazine_Page_2.jpg"><img  src="images/print/magazine_Page_2.jpg" alt="Empire Acolhua Magazine" width="25%" title="Magazine"/></a><a target="_blank" href="images/print/magazine_Page_1.jpg"><img  src="images/print/magazine_Page_3.jpg" width="25%" alt="Empire Acolhua Magazine"/></a><a target="_blank" href="images/print/magazine_Page_1.jpg"><img  src="images/print/magazine_Page_4.jpg" width="25%" alt="Empire Acolhua Magazine"/></a><div class="desc">"Revista Imperio Acolhua"<br>InDesign, 2016</div></div>
+
+</div>
+</div>
+<div class="div"></div>
+
+<div class="container3">
+<div id="mmedia">MULTIMEDIA</div>
+<div class="div"></div>
+<div class="mmedia">
+  <div class="film">
+  <a href="#A"><img src="images/mmedia/A.jpg" alt="Archivo de Audio" width="20%"/></a><a href="#B"><img src="images/mmedia/B.png" alt="Video Parques de California" width="20%"/></a><a href="#C"><img src="images/mmedia/C.png" alt="Video Promocional de Imperio Acolhua  " width="20%"/></a><a href="#D"><img src="images/mmedia/D.png" alt="Video El Diseñador" width="20%"/></a><a href="#E"><img src="images/mmedia/E.jpg" alt="Video Energía Humana" width="20%"/></a></div>
+ 
+  
+  <div class="div"></div>
+  <div id="A"><audio controls><source src="images/mmedia/spooky.mp3" type="mp3"></source> </audio><br>"Hola"<br>Garage Band, 2016</div>
+  <div class="div"></div>
+  <div id="B"><video src="images/mmedia/capark.mp4" controls width="100%" height="100%"></video><br>"Parques de California"<br>After Effects, 2016</div>
+  <div class="div"></div>
+  <div id="C"><video src="images/mmedia/eapromo.mp4" controls width="100%" height="100%"></video><br>"Promo de Imperio Acolhua"<br>After Effects, 2016</div>
+<div class="div"></div>
+<div id="D"><video src="images/mmedia/TheDesigner.mp4" controls width="100%" height="100%"></video><br>"El Diseñador"<br>PremierePro, 2016</div>
+<div class="div"></div>
+<div id="E"><video src="images/mmedia/TheHumanEnergy.mp4" controls width="100%" height="100%"></video><br>"Energía Humana"<br>PremierePro, 2016</div>
+<div class="div"></div>
+</div>
+</div>
+<div class="div"></div>
+
+<div class="container4"><div id="web">DISEÑO WEB</div><div class="div"></div><div class="web"><div class="NT"><div class="NTlogo"><a href="images/web/nothanks.swf" target="new"><img src="images/nothanks.png" alt="No Thanks logo link to site"/></a></div><div class="NTtxt"> "NO THANKS" es un sitio en inglés, de Interés Público creado en Flash y Photoshop. La idea de esta página es brindar las herramientas  e información necesarias para aquellas personas que les cuesta trabajo establecer límites. El diseño de la página está enfocado en 3 principios: accesibilidad, interacción, pero sobre todo en su carácter informativo. </div></div><div class="div"></div><div class="imcp"><div class="IMCPtxt">El sitio Promocional de IMCP fue creado en Dreamweaver como una breve reseña de lo que es el Programa Certificado de Interacción de Multimedia que ofrece SDCE. Su sencillez en el diseño lo hace muy accesible al público. Incluye ejemplos de los 3 módulos del Programa y ligas a la página oficial de SDCE.</div><div class="IMCPlogo"><a href="images/web/IMCP/index.html" target="new"><img src="images/IMCP-2.png" alt="IMCP logo to site"/></a></div></div></div></div> 
+<div class="div"></div>
+
+<div class="container5">
+<div id="contact">CONTACTO</div>
+<div class="div"></div>
+<div class="contact"><div class="cont"><div class="ctxt">Lucia Novelo<br><a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#identifier">msdsgnr@gmail.com</a></div><div class="cimg"><img src="images/stamp-312609_1280.png" alt="stamp" width="100%"></div></div>
+<div class="urinfo"><form id="contact_form" action="mailto:msdsgnr@gmail.com" method="POST" >
+	<div class="row">
+		<label for="name">Nombre:</label><br />
+		<input id="name" class="input" name="name" type="" value="" size="50" /><br />
+	</div>
+	<div class="row">
+		<label for="email">Correo Electronico:</label><br />
+		<input id="email" class="input" name="email" type="text" value="" size="50" /><br />
+	</div>
+	<div class="row">
+    <label for="message">Mensaje:</label><br />
+		<textarea id="message" class="input" name="message" rows="6" cols="50"></textarea><br />
+	</div>
+	<input id="submit_button" type="submit" value="Enviar" />
+</form></div><div class="thanks">¡Gracias por visitar mi sitio!</div></div>	
+</div>
+
+<div class="div"></div>
+
+<div class="container6"><div id="footer">©2016 SDCE IMCP VALVERDE</div></div>
+<div class="div"></div>
+</div>
+</body>
+</html>
